@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A4C9C46B25D2C9C900ADB417 /* Save the Earth!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Save the Earth!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A4C9C46B25D2C9C900ADB417 /* FirstKadaiApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FirstKadaiApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4C9C46E25D2C9C900ADB417 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A4C9C47025D2C9C900ADB417 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		A4C9C47225D2C9C900ADB417 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		A4C9C46C25D2C9C900ADB417 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A4C9C46B25D2C9C900ADB417 /* Save the Earth!.app */,
+				A4C9C46B25D2C9C900ADB417 /* FirstKadaiApp.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A4C9C46A25D2C9C900ADB417 /* Save the Earth! */ = {
+		A4C9C46A25D2C9C900ADB417 /* FirstKadaiApp */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A4C9C47F25D2C9CB00ADB417 /* Build configuration list for PBXNativeTarget "Save the Earth!" */;
+			buildConfigurationList = A4C9C47F25D2C9CB00ADB417 /* Build configuration list for PBXNativeTarget "FirstKadaiApp" */;
 			buildPhases = (
 				A4C9C46725D2C9C900ADB417 /* Sources */,
 				A4C9C46825D2C9C900ADB417 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = "Save the Earth!";
+			name = FirstKadaiApp;
 			productName = "Save the Earth!";
-			productReference = A4C9C46B25D2C9C900ADB417 /* Save the Earth!.app */;
+			productReference = A4C9C46B25D2C9C900ADB417 /* FirstKadaiApp.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -101,7 +101,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A4C9C46625D2C9C900ADB417 /* Build configuration list for PBXProject "Save the Earth!" */;
+			buildConfigurationList = A4C9C46625D2C9C900ADB417 /* Build configuration list for PBXProject "FirstKadaiApp" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -114,7 +114,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A4C9C46A25D2C9C900ADB417 /* Save the Earth! */,
+				A4C9C46A25D2C9C900ADB417 /* FirstKadaiApp */,
 			);
 		};
 /* End PBXProject section */
@@ -324,7 +324,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A4C9C46625D2C9C900ADB417 /* Build configuration list for PBXProject "Save the Earth!" */ = {
+		A4C9C46625D2C9C900ADB417 /* Build configuration list for PBXProject "FirstKadaiApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A4C9C47D25D2C9CB00ADB417 /* Debug */,
@@ -333,7 +333,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A4C9C47F25D2C9CB00ADB417 /* Build configuration list for PBXNativeTarget "Save the Earth!" */ = {
+		A4C9C47F25D2C9CB00ADB417 /* Build configuration list for PBXNativeTarget "FirstKadaiApp" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A4C9C48025D2C9CB00ADB417 /* Debug */,
